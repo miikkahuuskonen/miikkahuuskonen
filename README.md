@@ -1,5 +1,5 @@
 
-## Hi there 👋, I'm Miikka Huuskonen
+## Hi there 👋, I'm Miikka
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=miikkahuuskonen&label=Profile%20Views&color=0e75b6&style=flat" alt="miikkahuuskonen" />
