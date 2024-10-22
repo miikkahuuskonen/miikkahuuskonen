@@ -20,7 +20,7 @@
     <img align="center" src="https://img.shields.io/badge/-Website-4A90E2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
 </a>
 
-  <a href="mailto:miikka@example.com" target="_blank">
+  <a href="mailto:miikka.huuskonen@gmail.com" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
